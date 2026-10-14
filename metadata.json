@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix PanelSell - Panel \u0026 Key Store",
+  "description": "Bangladesh\u0027s premier gaming panel, mod APK, and license key store with instant delivery, bKash/Nagad wallet, Spin \u0026 Win, and full Admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
